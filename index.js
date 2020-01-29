@@ -1,1 +1,1 @@
-modules.export.default = {}
+module.exports.default = {}
